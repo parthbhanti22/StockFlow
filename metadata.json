@@ -1,0 +1,5 @@
+{
+  "name": "StockFlow",
+  "description": "An enterprise-grade inventory management system featuring a real-time dashboard, stock tracking, and data persistence.",
+  "requestFramePermissions": []
+}
